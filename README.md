@@ -57,6 +57,7 @@ Before setting up the project, make sure you have the following installed:
 4. **Set up the database**
 
    - Apply migrations:
+     
      ```bash
      python manage.py migrate
      ```
